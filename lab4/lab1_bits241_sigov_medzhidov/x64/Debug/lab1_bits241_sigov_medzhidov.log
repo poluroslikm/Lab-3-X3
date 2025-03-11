@@ -1,0 +1,6 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (lab1_bits241_sigov_medzhidov.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  lab1_bits241_sigov_medzhidov.cpp
+C:\Users\Poluroslik M\Desktop\lab2\lab1_bits241_sigov_medzhidov\lab1_bits241_sigov_medzhidov.cpp(26,17): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Poluroslik M\Desktop\lab2\lab1_bits241_sigov_medzhidov\lab1_bits241_sigov_medzhidov.cpp(31,16): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\Poluroslik M\Desktop\lab2\lab1_bits241_sigov_medzhidov\lab1_bits241_sigov_medzhidov.cpp(47,19): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  lab1_bits241_sigov_medzhidov.vcxproj -> C:\Users\Poluroslik M\Desktop\lab2\x64\Debug\lab2_bits241_sigov_medzhidov.exe

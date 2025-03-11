@@ -1,0 +1,3 @@
+﻿  FileName.cpp
+C:\Users\Poluroslik M\source\repos\Lab3\FileName.cpp(128,45): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+  Lab3.vcxproj -> C:\Users\Poluroslik M\source\repos\Lab3\x64\Debug\Lab3.exe
