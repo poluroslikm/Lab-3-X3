@@ -1,0 +1,3 @@
+﻿  Lab6.cpp
+C:\Users\Poluroslik M\Desktop\Lab6\Lab6.cpp(87,9): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+  Lab6.vcxproj -> C:\Users\Poluroslik M\Desktop\Lab6\x64\Debug\Lab6.exe
